@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Dog Food", "price": "£20", "image": "/dog-food.jpg" },
+    { "id": 2, "name": "Cat Toy", "price": "£10", "image": "/cat-toy.jpg" },
+    { "id": 3, "name": "Bird Cage", "price": "£50", "image": "/bird-cage.jpg" },
+    { "id": 4, "name": "Fish Tank", "price": "£100", "image": "/fish-tank.jpg" },
+    { "id": 5, "name": "Rabbit Hutch", "price": "£80", "image": "/rabbit-hutch.jpg" },
+    { "id": 6, "name": "Hamster Wheel", "price": "£15", "image": "/hamster-wheel.jpg" }
+  ]
+  

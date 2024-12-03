@@ -1,0 +1,91 @@
+[
+    {
+      "id": 1,
+      "name": "Buddy",
+      "breed": "Golden Retriever",
+      "age": "2 years",
+      "image": "/assets/buddy.webp",
+      "description": "A playful and friendly Golden Retriever looking for a loving family."
+    },
+    {
+      "id": 2,
+      "name": "Max",
+      "breed": "Labrador",
+      "age": "3 years",
+      "image": "/assets/max.webp",
+      "description": "Max loves long walks and playing fetch."
+    },
+    {
+      "id": 3,
+      "name": "Bella",
+      "breed": "Beagle",
+      "age": "1 year",
+      "image": "/assets/bella.webp",
+      "description": "Bella is an energetic Beagle who gets along great with kids."
+    },
+    {
+      "id": 4,
+      "name": "Daisy",
+      "breed": "Cocker Spaniel",
+      "age": "4 years",
+      "image": "/assets/daisy.webp",
+      "description": "Daisy is calm and affectionate, perfect for a quiet home."
+    },
+    {
+      "id": 5,
+      "name": "Rocky",
+      "breed": "German Shepherd",
+      "age": "5 years",
+      "image": "/assets/rocky.webp",
+      "description": "Rocky is a loyal and protective dog, ideal for experienced owners."
+    },
+    {
+      "id": 6,
+      "name": "Luna",
+      "breed": "Husky",
+      "age": "2 years",
+      "image": "/assets/luna.webp",
+      "description": "Luna is a stunning Husky who loves the outdoors."
+    },
+    {
+      "id": 7,
+      "name": "Charlie",
+      "breed": "Jack Russell Terrier",
+      "age": "3 years",
+      "image": "/assets/charlie.webp",
+      "description": "Charlie is an energetic Jack Russell who loves to run and play."
+    },
+    {
+      "id": 8,
+      "name": "Ruby",
+      "breed": "Shih Tzu",
+      "age": "2 years",
+      "image": "/assets/ruby.webp",
+      "description": "Ruby is a sweet and calm Shih Tzu, perfect for a cozy home."
+    },
+    {
+      "id": 9,
+      "name": "Rosie",
+      "breed": "Chihuahua",
+      "age": "1 year",
+      "image": "/assets/rosie.webp",
+      "description": "Rosie is a tiny but bold Chihuahua with a big personality."
+    },
+    {
+      "id": 10,
+      "name": "Toby",
+      "breed": "Border Collie",
+      "age": "2 years",
+      "image": "/assets/toby.webp",
+      "description": "Toby is a highly intelligent and active dog who loves to learn tricks."
+    },
+    {
+      "id": 11,
+      "name": "Leo",
+      "breed": "Boxer",
+      "age": "4 years",
+      "image": "/assets/leo.webp",
+      "description": "Leo is a bouncy and fun-loving Boxer who enjoys family activities."
+    }
+  ]
+  

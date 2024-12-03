@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Adoption Day",
+      "date": "2024-12-15",
+      "location": "Jacob's Pet Supplies Parking Lot",
+      "description": "Meet our rescue dogs and adopt your new best friend!"
+    },
+    {
+      "id": 2,
+      "title": "Fundraising Walk",
+      "date": "2024-12-20",
+      "location": "Local Park",
+      "description": "Join us for a walk to raise funds for Sherlock Rescue."
+    }
+  ]
+  

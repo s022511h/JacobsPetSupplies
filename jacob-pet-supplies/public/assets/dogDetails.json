@@ -1,0 +1,80 @@
+{
+    "1": {
+      "name": "Buddy",
+      "story": "Buddy was rescued from an overcrowded shelter and has blossomed into a playful and friendly companion.",
+      "needs": "Buddy thrives in a home with an active family who can provide him with lots of playtime and exercise.",
+      "vaccinated": true,
+      "trained": true
+    },
+    "2": {
+      "name": "Max",
+      "story": "Max was found as a stray but quickly warmed up to people and loves long walks and fetch games.",
+      "needs": "Max would do well with a family who enjoys outdoor activities and has a secure yard.",
+      "vaccinated": true,
+      "trained": false
+    },
+    "3": {
+      "name": "Bella",
+      "story": "Bella was surrendered by her previous owner and is full of energy and affection, especially towards children.",
+      "needs": "Bella needs a family who can match her energy and provide consistent training.",
+      "vaccinated": true,
+      "trained": true
+    },
+    "4": {
+      "name": "Daisy",
+      "story": "Daisy was rescued from a neglectful environment and has a calm and affectionate demeanor.",
+      "needs": "Daisy is ideal for a quiet home with plenty of cuddles and gentle walks.",
+      "vaccinated": true,
+      "trained": true
+    },
+    "5": {
+      "name": "Rocky",
+      "story": "Rocky was rescued from a working farm where he was overworked. Now, he’s loyal and protective.",
+      "needs": "Rocky is perfect for an experienced owner who understands his need for structure and activity.",
+      "vaccinated": true,
+      "trained": true
+    },
+    "6": {
+      "name": "Luna",
+      "story": "Luna was abandoned as a pup and has grown into a beautiful Husky who loves the outdoors.",
+      "needs": "Luna requires an adventurous owner who enjoys hiking and cold climates.",
+      "vaccinated": true,
+      "trained": false
+    },
+    "7": {
+      "name": "Charlie",
+      "story": "Charlie was a stray who charmed his rescuers with his high energy and playful antics.",
+      "needs": "Charlie needs a home with a yard where he can run and someone who loves his lively personality.",
+      "vaccinated": true,
+      "trained": true
+    },
+    "8": {
+      "name": "Ruby",
+      "story": "Ruby was found with a litter of puppies and has since become a sweet and calm companion.",
+      "needs": "Ruby would do best in a cozy home where she can be the center of attention.",
+      "vaccinated": true,
+      "trained": true
+    },
+    "9": {
+      "name": "Rosie",
+      "story": "Rosie was surrendered by her owner and has a big personality despite her tiny size.",
+      "needs": "Rosie thrives in a home where she can be pampered and loved.",
+      "vaccinated": true,
+      "trained": false
+    },
+    "10": {
+      "name": "Toby",
+      "story": "Toby was raised on a farm but is now looking for a family to show off his intelligence and tricks.",
+      "needs": "Toby needs an active owner who enjoys training and mentally stimulating activities.",
+      "vaccinated": true,
+      "trained": true
+    },
+    "11": {
+      "name": "Leo",
+      "story": "Leo was abandoned at a young age but loves being part of an active family.",
+      "needs": "Leo would thrive in a home with children and plenty of opportunities for play.",
+      "vaccinated": true,
+      "trained": false
+    }
+  }
+  
