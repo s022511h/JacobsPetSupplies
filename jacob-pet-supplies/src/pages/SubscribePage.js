@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import { useAuth } from "../AuthContext"; // Import authentication context
+import { useAuth } from "../AuthContext";
 
 const SubscribePage = () => {
-  const { user } = useAuth(); // Get the authenticated user
+  const { user } = useAuth(); 
   const [email, setEmail] = useState("");
   const [isSubscribed, setIsSubscribed] = useState(false);
 

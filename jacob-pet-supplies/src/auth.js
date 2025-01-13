@@ -1,7 +1,5 @@
 import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword, signOut } from "firebase/auth";
-import app from "./firebaseConfig"; // Correctly import the app instance
-
-const auth = getAuth(app);
+import { auth } from "./firebaseConfig";
 
 export const register = (email, password) => {
   return createUserWithEmailAndPassword(auth, email, password);

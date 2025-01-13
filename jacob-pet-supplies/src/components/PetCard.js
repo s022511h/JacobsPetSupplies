@@ -1,13 +1,12 @@
 import React, { useEffect, useState } from "react";
-import { useAuth } from "../AuthContext"; // Import the Auth Context
+import { useAuth } from "../AuthContext"; 
 
 const PetCard = ({ pet, onBack }) => {
-  const { user } = useAuth(); // Access the current user
+  const { user } = useAuth(); 
   const [details, setDetails] = useState(null);
 
   useEffect(() => {
     if (user) {
-      // Fetch details only if the user is logged in
       fetch(
         "https://raw.githubusercontent.com/s022511h/JacobsPetSupplies-Assets/refs/heads/main/dogDetails.json"
       )

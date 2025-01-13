@@ -1,9 +1,8 @@
 [
-    { "id": 1, "name": "Dog Food", "price": "£20", "image": "/dog-food.jpg" },
-    { "id": 2, "name": "Cat Toy", "price": "£10", "image": "/cat-toy.jpg" },
-    { "id": 3, "name": "Bird Cage", "price": "£50", "image": "/bird-cage.jpg" },
-    { "id": 4, "name": "Fish Tank", "price": "£100", "image": "/fish-tank.jpg" },
-    { "id": 5, "name": "Rabbit Hutch", "price": "£80", "image": "/rabbit-hutch.jpg" },
-    { "id": 6, "name": "Hamster Wheel", "price": "£15", "image": "/hamster-wheel.jpg" }
-  ]
-  
+  { "id": 1, "name": "Dog Food", "price": "£20", "image": "/assets/optimized/dogfood.webp" },
+  { "id": 2, "name": "Cat Toy", "price": "£10", "image": "/assets/optimized/cattoy.webp" },
+  { "id": 3, "name": "Bird Cage", "price": "£50", "image": "/assets/optimized/birdcage.webp" },
+  { "id": 4, "name": "Fish Tank", "price": "£100", "image": "/assets/optimized/fishtank.webp" },
+  { "id": 5, "name": "Rabbit Hutch", "price": "£80", "image": "/assets/optimized/rabbithutch.webp" },
+  { "id": 6, "name": "Hamster Wheel", "price": "£15", "image": "/assets/optimized/hamsterwheel.webp" }
+]

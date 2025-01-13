@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
-import { Navigate } from "react-router-dom"; // Import for redirection
-import { useAuth } from "../AuthContext"; // Import authentication context
+import { Navigate } from "react-router-dom"; 
+import { useAuth } from "../AuthContext";
 import PetCard from "../components/PetCard";
 
 const RescuePage = () => {
-  const { user } = useAuth(); // Get the authenticated user
+  const { user } = useAuth(); 
   const [dogs, setDogs] = useState([]);
   const [selectedDog, setSelectedDog] = useState(null);
 
@@ -18,7 +18,7 @@ const RescuePage = () => {
   }, []);
 
   if (!user) {
-    return <Navigate to="/login" />; // Redirect unauthenticated users to LoginPage
+    return <Navigate to="/login" />; 
   }
 
   return (
@@ -39,14 +39,14 @@ const RescuePage = () => {
       {selectedDog ? (
         <PetCard
           pet={selectedDog}
-          onBack={() => setSelectedDog(null)} // Clear the selected dog to go back to the list
+          onBack={() => setSelectedDog(null)} 
         />
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {dogs.map((dog) => (
             <div
               key={dog.id}
-              onClick={() => setSelectedDog(dog)} // Set selected dog on click
+              onClick={() => setSelectedDog(dog)} 
               className="cursor-pointer border border-purple-400 bg-purple-100 p-4 rounded-lg shadow-lg hover:shadow-xl flex flex-col items-center"
             >
               <div className="w-full h-64 bg-white flex items-center justify-center">

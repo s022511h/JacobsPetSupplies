@@ -21,6 +21,7 @@ module.exports = {
       },
       fontFamily: {
         bubble: ["'Baloo Bhaina 2'", "cursive"],
+        handwritten: ["'Patrick Hand'", "cursive"],
       },
       animation: {
         pulseSlow: "pulse 1s infinite",

@@ -15,3 +15,9 @@
 .text-purple-800 {
   color: #6B21A8;
 }
+
+img[loading="lazy"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
